@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbc33d65-32e5-44ff-a632-07ae8af2b02b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/py-dapp/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-dapp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-dapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-dapp/abi/MyContract.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-dapp/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="bbc33d65-32e5-44ff-a632-07ae8af2b02b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
